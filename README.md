@@ -17,7 +17,7 @@ This is a simple Java program that simulates a basic banking system. Users can l
 ## How to Use
 
 1. Clone this repository to your local machine.
-`git clone <repository-url>`
+`git clone <[repository-url](https://github.com/sserhatacarr/atmProject)>`
 
 2. Open the project in your Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
